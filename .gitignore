@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/uploads/
+data/references/
+data/videos/
+data/sightings/
+reports/
+venv/
+.env
+.DS_Store
+*.mp4
+*.avi
+*.jpg
+*.png
